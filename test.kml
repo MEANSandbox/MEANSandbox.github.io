@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>01_28_17_tasb_alt Pix4D</name>
+<description></description>
+<Style><ListStyle id="hideChildren">
+<listItemType>checkHideChildren</listItemType>
+</ListStyle>
+</Style>
+<NetworkLink>
+<name>15/7329/19177.kml</name>
+<Region>
+<LatLonAltBox>
+<north>29.324720161511056</north>
+<south>29.315141193187280</south>
+<east>-99.470214843750000</east>
+<west>-99.481201171875000</west>
+</LatLonAltBox>
+<Lod>
+<minLodPixels>128</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+</Region>
+<Link>
+<href>https://meansandbox.github.io/land_splash.jpg</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+</Document>
+</kml>
